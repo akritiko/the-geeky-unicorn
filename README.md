@@ -9,4 +9,4 @@ It [won the first prize](https://www.linkedin.com/feed/update/urn:li:activity:71
 
 ## License
 
-"The Geeky Unicorn" © 2023 by Apostolos Kritikos is licensed under [Attribution 4.0 International](https://github.com/akritiko/the-geeky-unicorn/blob/main/LICENSE.md)
+"The Geeky Unicorn" © 2023 by Apostolos Kritikos is licensed under [Attribution 4.0 International](https://github.com/akritiko/the-geeky-unicorn/blob/main/LICENSE.md).
