@@ -1,2 +1,2 @@
-# the-geeky-unicorn
+# The Geeky Unicorn
 An open character
