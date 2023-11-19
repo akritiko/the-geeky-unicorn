@@ -1,5 +1,9 @@
 # The Geeky Unicorn
-An open character
+The Geeky unicorn is a character designeed with the help of AI. The prompt used was:
+
+_"Create a mascot of a unicorn that is a top notch software developer."_
+
+It [won the first prize](https://www.linkedin.com/feed/update/urn:li:activity:7131120200770351104/) in the attendees contest during the InnerSource Summit 2023.
 
 ![The Geeky Unicorn - Color](https://github.com/akritiko/the-geeky-unicorn/blob/main/geeky_unicorn_color.png)
 
